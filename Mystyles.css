@@ -1,0 +1,60 @@
+body{
+  background-image:url(P.png);
+  background-size: 1500px 650px;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+
+h1{
+  color:white ;font-size: 50px;}
+  h1:hover{
+    color:#FFC600;
+
+  }
+h4{
+  color:#FFC600;}
+  h4:hover { color:white; }
+.nav{
+
+  width: 1280px;
+  height: 100px;
+  position: absolute;
+top: 0;
+
+}
+ul{
+  color: white;
+
+}
+
+.Home{
+  position: absolute;
+top: 10px;
+
+font-size: 25px;
+
+}
+.About{
+  position: absolute;
+top: 100px;
+
+font-size: 25px;
+}
+.Contact{
+  position: absolute;
+top:55px;
+
+font-size: 25px;
+}
+
+
+.top{
+
+  position: absolute;
+  top:400px;
+left :300px;
+}
+
+
+}

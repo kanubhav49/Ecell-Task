@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+margin-top:0;
+  background-image: url(bkgg.jpg);
+  background-size: 1300px 800px;
+  background-repeat: no-repeat;
+}
+.main{
+  width: 400px;
+  margin:100px auto 0 auto;
+
+
+}
+
+.survey{
+
+
+  background-color: rgba(0,0,0,0.5);
+  width: 100%;
+  border-radius:10px;
+  border:1px solid rgba(255,255,255,0.3);
+  box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+  color:#fff;
+
+}
+#form{
+  margin: 40px;
+}
+
+input:name{
+  width:300px;
+}
+
+#name{
+  width:300px;
+  border:1px solid #ddd;
+  border radius:3px;
+  outline : 0px;
+  padding:7px;
+  background-color: #fff;
+  box-shadow: inset 1px 1px 5px;
+  rgba(0,0,0,0.3);
+
+}
+
+#submit{
+  width: 200px;
+  padding: 7px;
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 600;
+  bordeer:none;
+  border-radius: 3px;
+  color:#fff;
+  cursor: pointer;
+  border:1px solid
+  rgba(255,255,255,0.3);
+  box-shadow: 1px 1px 5px
+  rgba(0,0,0,0.3);
+  margin-bottom: 20px;
+
+
+}
